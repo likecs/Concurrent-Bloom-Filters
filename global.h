@@ -7,7 +7,7 @@ using namespace std;
 typedef long long LL;
 typedef long double LD;
 
-const int MAX = 1000000;
+const int MAX = 100000000;
 const int MOD2 = 31;
 const int BITS = 16;
 const int MAXL = 12;

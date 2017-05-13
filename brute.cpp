@@ -2,7 +2,7 @@
 
 using namespace std;
 
-const int MAX = 1000000;
+const int MAX = 100000000;
 
 int type[MAX];
 string s[MAX];
