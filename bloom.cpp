@@ -126,4 +126,3 @@ int main(int argc, char const *argv[])
 	cerr << (end - start) << "\n";
 	return 0;
 }
-
