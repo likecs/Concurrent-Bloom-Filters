@@ -26,4 +26,3 @@ clean:
 	# rm out.txt
 	rm res.txt
 	rm res2.txt
-
